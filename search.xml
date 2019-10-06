@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[gitment]]></title>
+    <url>%2F2019%2F10%2F06%2Fgitment%2F</url>
+    <content type="text"><![CDATA[var gitment = new Gitment({ id: '页面 ID', // 可选。默认为 location.href owner: 'ymwmlh', repo: 'ymwmlh.github.io', oauth: { client_id: '2774ede23d0755e1aeec', client_secret:'82be7497496e70d28d2b0d9f1eca17cbe35c4bc1', }, }) gitment.render('container')]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2019%2F10%2F06%2Fhello-world%2F</url>
     <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
